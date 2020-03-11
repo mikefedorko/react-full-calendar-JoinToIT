@@ -28,6 +28,15 @@
   color: #61dafb;
 }
 
+.calendar {
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+.modal-body {
+  padding-bottom: 0 !important;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
