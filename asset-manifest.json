@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-full-calendar-JoinToIT/static/css/main.d9d3d5ce.chunk.css",
+    "main.js": "/react-full-calendar-JoinToIT/static/js/main.5378367f.chunk.js",
+    "main.js.map": "/react-full-calendar-JoinToIT/static/js/main.5378367f.chunk.js.map",
+    "runtime-main.js": "/react-full-calendar-JoinToIT/static/js/runtime-main.51ef19b2.js",
+    "runtime-main.js.map": "/react-full-calendar-JoinToIT/static/js/runtime-main.51ef19b2.js.map",
+    "static/css/2.26061d2a.chunk.css": "/react-full-calendar-JoinToIT/static/css/2.26061d2a.chunk.css",
+    "static/js/2.89d6e70b.chunk.js": "/react-full-calendar-JoinToIT/static/js/2.89d6e70b.chunk.js",
+    "static/js/2.89d6e70b.chunk.js.map": "/react-full-calendar-JoinToIT/static/js/2.89d6e70b.chunk.js.map",
+    "index.html": "/react-full-calendar-JoinToIT/index.html",
+    "precache-manifest.835e44fda0ed93dffed5ed92d45729cf.js": "/react-full-calendar-JoinToIT/precache-manifest.835e44fda0ed93dffed5ed92d45729cf.js",
+    "service-worker.js": "/react-full-calendar-JoinToIT/service-worker.js",
+    "static/css/2.26061d2a.chunk.css.map": "/react-full-calendar-JoinToIT/static/css/2.26061d2a.chunk.css.map",
+    "static/css/main.d9d3d5ce.chunk.css.map": "/react-full-calendar-JoinToIT/static/css/main.d9d3d5ce.chunk.css.map",
+    "static/js/2.89d6e70b.chunk.js.LICENSE.txt": "/react-full-calendar-JoinToIT/static/js/2.89d6e70b.chunk.js.LICENSE.txt",
+    "static/media/calendar.svg": "/react-full-calendar-JoinToIT/static/media/calendar.92ccddf2.svg",
+    "static/media/clock.svg": "/react-full-calendar-JoinToIT/static/media/clock.06412bd8.svg",
+    "static/media/color-picker.svg": "/react-full-calendar-JoinToIT/static/media/color-picker.798fcea5.svg",
+    "static/media/name.svg": "/react-full-calendar-JoinToIT/static/media/name.a7a1e1c2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51ef19b2.js",
+    "static/css/2.26061d2a.chunk.css",
+    "static/js/2.89d6e70b.chunk.js",
+    "static/css/main.d9d3d5ce.chunk.css",
+    "static/js/main.5378367f.chunk.js"
+  ]
+}
